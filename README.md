@@ -17,12 +17,13 @@ Hi, I'm Karan having an experience of 2 years in Software Development,
 </br>
 
 <b>Job Roles:</b>
-<br>s
+<br>
 I have interest in frontend development, designing and web3 development. 
 </br>
 </br>
 <b>Tech Stack and Expertise</b></br>
-Tech Stack : Reactjs/Nextjs , web3js, Angular,Html/Css, Javascript. 
+Tech Stack : Reactjs/Nextjs , web3js, Angular,Html/Css, Javascript.
+Expertise : Frontend Development
 </br>
 </br>
 
